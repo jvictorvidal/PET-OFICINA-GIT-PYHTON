@@ -1,0 +1,5 @@
+seaborn
+matplot
+numpy
+kagglehub
+plotly
